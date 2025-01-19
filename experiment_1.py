@@ -1,3 +1,5 @@
+#before running need to do the below in terminal
+
 #gcloud init
 #gcloud auth application-default login
 from google.cloud import bigquery
